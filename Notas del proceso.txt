@@ -1,0 +1,9 @@
+Para que funcione los primeros pasos del tutorial 2 (mover la barar de vida con huplayerhealth.res) hay que añadir un archivo dentro de la carpeta de la hud, 
+donde estan las carpetas de  resources y scripts, llamado info.vdf (haz un .txt y luego cambialo a .vdf) que contenga lo siguiente:
+"name"
+{
+    "ui_version" "3"
+}
+
+IMPORTANTE:  Donde pone name hay que introducir el nombre de la carpeta en la que esta alojado el archivo (el nombre de la hud basicamente). 
+Subire a main el archivo ya hecho pero con el nombre puesto para la hud que estoy haciendo: crappyHUD.
